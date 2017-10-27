@@ -1,0 +1,5 @@
+# THIS IS MORE OR LESS AN EXACT COPY OF [JDA UTILITIES](https://github.com/JDA-Applications/JDA-Utilities) MADE BY [jagrosh](https://github.com/jagrosh). I HAVE PERMISSION BY HIM AND THE APACHE LISENCE 2.0 TO BE ABLE TO MODIFY THE CODE. PROPS TO HIM AND THE REST OF THE PEOPLE WORKING ON THIS FANTASTIC LIBRARY. IT'S VERY WELL MADE. GO STAR IT.
+
+# D4J-Utilities
+
+A collection of nice utilities for Discord4J.
